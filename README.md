@@ -1,4 +1,4 @@
----
+
 Requisitos Previos e Instalación
 1. Crear el entorno virtual
 Crea un entorno virtual para aislar las dependencias del proyecto:
@@ -16,7 +16,7 @@ Instala los paquetes requeridos ejecutando:
 ```bash
 pip install -r requirements.txt
 ```
----
+
 Ejecución de la Aplicación
 Inicia el servidor en modo de desarrollo con el siguiente comando:
 ```bash
